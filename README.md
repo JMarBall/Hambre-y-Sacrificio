@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## Hambre y Sacrificio
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,11 +8,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Hambre y Sacrificio
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos) 
+**Autor:**  Julia Martínez Ballesteros
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 

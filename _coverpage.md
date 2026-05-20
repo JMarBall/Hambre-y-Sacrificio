@@ -1,7 +1,7 @@
 <!-- _coverpage.md -->
 
 
-# Creación Multimedia Interactiva
+# Hambre y Sacrificio
  
 
 
@@ -12,11 +12,11 @@
 
 
 
-### Proyecto realizado por:
+### Proyecto realizado por: JMarBall
 
-### Enlace a Itch.io: ____________
+### Enlace a Itch.io: (https://julia7mb.itch.io/hambre-y-sacrificio)
 
-#### Facultad de Bellas Artes. Universidad de Granada, 202X
+#### Facultad de Bellas Artes. Universidad de Granada, 2026
 
 
 

@@ -6,7 +6,7 @@
 
 
 <!---- Portada ----> 
-<img align="center" src="PORTADA.jpg" width="300" height=auto alt="Logotipo"/>
+<img align="center" src="Título.png" width="300" height=auto alt="Logotipo"/>
 
 
 

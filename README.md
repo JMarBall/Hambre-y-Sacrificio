@@ -15,7 +15,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Julia Martínez Ballesteros
 
- [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
 **Resumen** : "Hambre y Sacrificio" es un videojuego de aventura gráfica interactiva en 2D de corte gótico y misterio. La historia sigue a Camelia, una vampira que no recuerda nada de las últimas semanas, en la búsqueda de su novia, Yara, dentro de un lúgubre castillo. A través de la exploración de diferentes estancias, la resolución de puzles y la recolección de 8 objetos clave (como cartas ocultas o llaves), se van desentrañando los sucesos anteriores relacionando el vampirismo con el deber, la pérdida de la humanidad y los sacrificios que hacemos por amor. 
 
@@ -38,13 +37,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Github:  (https://jmarball.github.io/Hambre-y-Sacrificio/)
 
 
-![titulo](camelia diseño.jpg)
+![titulo](camelia.jpg)
 
 # 2. Memoria del proyecto 
 
 Una vampira (Camelia) despierta sin recuerdos en un castillo oscuro. Va buscando por las habitaciones pistas para descubrir qué le pasó antes de olvidar. Descubre que una cazadora de vampiras llegó a su hogar para matarla, pero en su lugar, asesinó a la pareja humana de Camelia (Yara), lo que causó la huída de la cazadora y el olvido por shock de la vampira. Va recordando todos estos sucesos poco a poco, junto con otras cosas como su sed insaciable de sangre, lo que la llevó a la locura; o la traición de su amada, que fue quien llamó a la cazadora, no para matarla, si no para asustarla y que dejara de asesinar a sangre fría a tantas humanas con la excusa de su necesidad de alimentarse. Su plan sale mal, y Camelia podrá decidir si salir en busca de venganza o si la culpa la consumirá.
 
-![Camelia](Camelia frames.jpg)
+![Camelia](Cameliaframes.jpg)
 
 ### 2.1 Storyboard: 
 
@@ -52,9 +51,11 @@ El proyecto se desarrolla a través de un viaje de tensión creciente dividido e
 
 1. **El Inicio:** Camelia despierta en un dormitorio oscuro, sin recuerdos de lo que pasó en las últimas semanas. Interactuando con los objetos, va descubriendo distintos objetos que le ayudan a recordar.
 
-![menu](menú diseño.png)
+![menu](menu.png)
 
 2. **La Investigación:** El jugador interactúa con el entorno. Al abrir cajones y compartimentos y realizar diversos minijuegos, descubre el Lore del juego; destaca el arreglo del espejo, en el que descubre sangre humana; o el hallazgo de una carta en la biblioteca firmada por un cazador ("E.V."), que descubre la posible traición de Yara.
+
+![carta](Carta.png)
 
 3. **El Conflicto:** Se introducen minijuegos y mecánicas de bloqueo que el jugador debe resolver recolectando objetos (como llaves u otros coleccionables) para desbloquear el camino.
 
@@ -84,7 +85,7 @@ La estructura del juego es semi-lineal, permitiendo la libre exploración de las
 ![habitacion](dormitorio.jpg)
 
   2. **Baño**
-![baño](baño fondo.jpg)
+![baño](baño.jpg)
 
   3. **Biblioteca**
 (en desarrollo)
@@ -92,7 +93,7 @@ La estructura del juego es semi-lineal, permitiendo la libre exploración de las
 
   4. **Pasillo**
 (en desarrollo)
-![Pasillo dia](Pasillo dia.jpg)
+![Pasillo](Pasillo.jpg)
 
   5. **Sótano**
 (en desarrollo)
@@ -117,6 +118,8 @@ La estructura del juego es semi-lineal, permitiendo la libre exploración de las
 
 
 # 3. Metodología
+
+![retrato](retrato.jpg)
 
 El desarrollo de *Hambre y Sacrificio* se ha guiado por principios de **Experiencia de Usuario (UX)** enfocados a la narrativa interactiva, buscando que la interfaz sea invisible para que el jugador se sumerja por completo en la atmósfera gótica del castillo.
 

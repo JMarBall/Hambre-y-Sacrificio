@@ -88,11 +88,11 @@ La estructura del juego es semi-lineal, permitiendo la libre exploración de las
 
   3. **Biblioteca**
 (en desarrollo)
-![biblio](Biblioteca.jpg)
+![Biblioteca](Biblioteca.jpg)
 
   4. **Pasillo**
 (en desarrollo)
-![pasillo](Pasillo dia.jpg)
+![Pasillo dia](Pasillo dia.jpg)
 
   5. **Sótano**
 (en desarrollo)
@@ -100,7 +100,7 @@ La estructura del juego es semi-lineal, permitiendo la libre exploración de las
   
   6. **Entrada**
 (en desarrollo)
-![entrada](Estrada.jpg)
+![Estrada](Estrada.jpg)
   
   7. **Cocina**
 (en desarrollo)
@@ -189,10 +189,8 @@ Como trabajo futuro, y una vez esté terminado hasta mi planteamiento inicial, m
 - Godot Engine 4.x
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-https://creativecommons.org/licenses/?lang=es
 
-* logos en https://creativecommons.org/mission/downloads/
+
   
   <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
 

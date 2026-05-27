@@ -10,35 +10,32 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Hambre y Sacrificio
 
-**Web:**   (url github.io)
+**Web:**   (https://jmarball.github.io/Hambre-y-Sacrificio/)
+**Enlace a Itch.io:**
 
 **Autor:**  Julia Martínez Ballesteros
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : "Hambre y Sacrificio" es un videojuego de aventura gráfica interactiva en 2D de corte gótico y misterio. La historia sigue a Camelia, una vampira que no recuerda nada de las últimas semanas, en la búsqueda de su novia, Yara, dentro de un lúgubre castillo. A través de la exploración de diferentes estancias, la resolución de puzles y la recolección de 8 objetos clave (como cartas ocultas o llaves), se van desentrañando los sucesos anteriores relacionando el vampirismo con el deber, la pérdida de la humanidad y los sacrificios que hacemos por amor. 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Aventura gráfica / Novela visual interactiva / Misterio Gótico.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : (Titulo.png)
 
-(insertar imágenes a resolucion de 100px alto)
+**Resolución:** 1152x648px 
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:** Google Chrome
 
 **Tamaño proyecto:** 14MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 27/05/2026
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github:  (https://jmarball.github.io/Hambre-y-Sacrificio/)
 
 
 ![girl](WalkingGirl_front01.png)
@@ -49,7 +46,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+
 
 
 

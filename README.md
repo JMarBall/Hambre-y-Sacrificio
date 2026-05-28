@@ -11,7 +11,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Titulo** : Hambre y Sacrificio
 
 **Web:**   (https://jmarball.github.io/Hambre-y-Sacrificio/)
-**Enlace a Itch.io:**
+
+**Enlace a Itch.io:** https://julia7mb.itch.io/hambre-y-sacrificio
 
 **Autor:**  Julia Martínez Ballesteros
 

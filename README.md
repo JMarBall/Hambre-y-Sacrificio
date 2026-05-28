@@ -178,7 +178,12 @@ Como trabajo futuro, y una vez esté terminado hasta mi planteamiento inicial, m
 
 # 5 Referencias 
 
-
+**Referentes:**
+-Carmilla, de J. Sheridan Le Fanu
+- Garfield, Scary Scavenger Hunt
+- The Last Door
+- Fran Bow
+- Castlevania: Symphony of the night
 
 **Recursos y materiales audiovisuales:**
 
